@@ -3,7 +3,8 @@ ssbg-data
 
 SSBG data analysis
 
-Currently empty. Data to be downloaded from ssbgportal.acf.hhs.gov/datadash
+Currently empty.  
+Data to be downloaded from ssbgportal.acf.hhs.gov/datadash  
 No ML anticipated
 
 Project Organization
