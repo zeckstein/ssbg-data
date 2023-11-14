@@ -3,11 +3,14 @@ ssbg-data
 
 SSBG data analysis
 
+Currently empty. Data to be downloaded from ssbgportal.acf.hhs.gov/datadash
+No ML anticipated
+
 Project Organization
 ------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
+    ├── Makefile- NONE           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   ├── external       <- Data from third party sources.
